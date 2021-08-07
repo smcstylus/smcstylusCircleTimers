@@ -9,7 +9,7 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  *
  *
- * Features: You can fill the center of circles, the past time lines and the left time lines with solid or gradient colors. There is also the possibility to change the cap style of animated line. Add separate shadow (color and diffuse) for main timer and left time lines and more.
+ * Features: You can fill the center of circles, the past time lines and the left time lines with solid or gradient colors. There is aslo the possibility to change the cap style of animated line. Add separate shadow (color and diffuse) for main timer and left time lines and more.
  *
  * Please read the documentation for all the options.
  *
