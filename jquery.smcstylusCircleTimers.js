@@ -446,7 +446,9 @@
 
       var textElement = $("<div>");
       textElement
-        .addClass("smcstylusCircleTimers--inner-" + key)
+        .addClass(
+          "smcstylusCircleTimers--inner smcstylusCircleTimers--inner-" + key
+        )
         .css("top", Math.round(0.35 * this.data.attributes.itemSize))
         .css("left", Math.round(i++ * this.data.attributes.itemSize))
         .css("width", this.data.attributes.itemSize)
